@@ -33,7 +33,9 @@ more enjoyable and comfortable.
 -   Open the **Terminal app** on your Mac and navigate to the directory where
 	you want to save the Erebos Theme. For example, you can type
 	**`cd Downloads`** to navigate to your Downloads folder.
--   Clone the GitHub repository of the Erebos Theme by running the command
+-   Clone the GitHub repository of the Erebos Theme by running the
+	following command:
+
 	```bash
 	git clone https://github.com/thematejsulc/erebos-theme-macos-terminal.git
 	```
